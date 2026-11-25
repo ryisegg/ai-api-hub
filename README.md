@@ -13,6 +13,7 @@
 | OutRouter | API调用/套壳网关 | 200+模型（OpenAI/Claude/Gemini全覆盖） | 按量计费 | 待确认 | New API架构，新加坡主体 |
 | 云雾API | API调用/按量计费 | 30+模型（OpenAI/Claude/Gemini/xAI等） | GPT-5.5约¥1.85/百万token | yunwu.ai | 全链路分销体系，有发票 |
 | PoloAPI | API调用/套壳网关 | 30+模型（GPT-5.5/Claude-4/Gemini-3等） | GPT-5.5约¥1.85/百万token | poloai.top | 主打海外模型，中国区已关停 |
+| 千流 API | API 调用，兼容 OpenAI 与 Anthropic 消息接口 | DeepSeek、Gemini、Claude、GPT 等 | DeepSeek V4.1 Flash 在 Self-Deployed-2 分组每百万 token 输入 0.195 美元（未命中缓存）、输出 0.78 美元。[分组价格](https://www.plusapi.cn/pricing?keyword=deepseek-v4.1-flash) | [plusapi.cn](https://www.plusapi.cn/) | 按量计费，可在控制台查看调用明细 |
 
 ## 📝 登记你的项目
 
